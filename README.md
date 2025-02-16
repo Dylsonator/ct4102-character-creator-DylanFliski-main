@@ -5,6 +5,6 @@
 
 
 Features:
-🎨 Color Customization – Modify character colors dynamically.
-🏗️ Body Part Adjustments – Change body features like head, torso, and limbs.
-🔄 Spinnable Character Preview – Rotate the character for a full 360° view.
+🎨 Color Customization – Modify character colors dynamically. <br/>
+🏗️ Body Part Adjustments – Change body features like head, torso, and limbs.<br/>
+🔄 Spinnable Character Preview – Rotate the character for a full 360° view.<br/>
