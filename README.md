@@ -4,7 +4,7 @@
 
 
 
-###Features:<br/>
+### Features:<br/>
 🎨 Color Customization – Modify character colors dynamically. <br/>
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/17d3caff-34bf-4e00-8d1b-6adc85e551ff)
 
